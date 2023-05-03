@@ -1,0 +1,15 @@
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.csproj.AssemblyReference.cache
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.AssemblyInfoInputs.cache
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.AssemblyInfo.cs
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.csproj.CoreCompileInputs.cache
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\bin\Debug\net6.0\lecture_oneline.exe
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\bin\Debug\net6.0\lecture_oneline.deps.json
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\bin\Debug\net6.0\lecture_oneline.runtimeconfig.json
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\bin\Debug\net6.0\lecture_oneline.dll
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\bin\Debug\net6.0\lecture_oneline.pdb
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.dll
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\refint\lecture_oneline.dll
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.pdb
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\lecture_oneline.genruntimeconfig.cache
+C:\Gb\lenguages\c#\lecture04\lecture_oneline\obj\Debug\net6.0\ref\lecture_oneline.dll
